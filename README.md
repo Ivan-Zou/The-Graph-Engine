@@ -1,6 +1,6 @@
 # The-Graph-Engine
 
-Description -
+## Description -
 - Users can construct a graph by adding/deleting individual vertices or adding/deleting individual edges (either directed or undirected)
   with the option of the edge being weak or strong to/in the graph through input boxes and buttons. Users also have the option to reset
   the graph and construct a new graph. Once the user finished constructing their graph, they can execute the graph algorithms on their 
@@ -8,13 +8,13 @@ Description -
   or DFS, users must specify a source vertex in the input box next to the BFS button. Upon clicking one of the algorithm buttons, a new 
  window will popup showing the results of executing the algorithm on the user's graph
 
-Categories Used -
+## Categories Used -
 - Graph and graph networks - 
 	The user will construct a graph by individually adding vertices or edges (either directed or undirected) with weak/strong ties
 	through input boxes and buttons, and my program will perform graph algorithms on the input graph based on which graph algorithm 
 	the user chooses. The algorithms include BFS, DFS, Topological Sort, and STC Identification.
 
-How to Run - 
+## How to Run - 
 - I used graphstream to display the graph on the GUI, so I provided the JAR file. 
 1) Download the JAR file
 2) Open "The Graph Engine" file in Intellij (I don't how to do this else where)
